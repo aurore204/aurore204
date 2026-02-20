@@ -1,37 +1,53 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=667eea,a855f7&height=200&section=header&text=Aurore%20Njimegne&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Développeuse%20Python%20%7C%20Epitech%20Paris&descAlignY=58&descColor=c4b5fd&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=667eea,a855f7&height=180&section=header&text=Aurore%20Njimegne&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Développeuse%20Python%20·%20Epitech%20Paris&descAlignY=56&descColor=c4b5fd&animation=fadeIn)
 
-</div>
+<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Aurore&backgroundColor=667eea&clothingColor=262e33&hairColor=2c1b18&skinColor=ae5d29&topType=LongHairStraight&clotheType=Hoodie&eyeType=Happy&mouthType=Smile" width="150" style="border-radius: 50%;"/>
 
-<div align="center">
+### 👩🏾‍💻 Aurore Njimegne
+
+**Étudiante Pré-Master · Epitech Paris**
+
+*Développeuse Python passionnée par la conception d'applications concrètes*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurore-njimegne)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurorenjimegne@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurore204)
-![Location](https://img.shields.io/badge/📍_Plaisir,_Île--de--France-667eea?style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurorenjimegne@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurore204)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aurore204&color=667eea&style=for-the-badge&label=Visiteurs)
 
 </div>
 
 ---
 
-### 👩🏾‍💻 À propos de moi
+<div align="center">
+
+### 🐍 À propos
+
+</div>
 
 ```python
 class Aurore:
     def __init__(self):
-        self.school     = "Epitech Paris — Pré-Master"
-        self.languages  = ["Python", "Java", "JavaScript"]
-        self.passion    = "Développement web & applications"
-        self.looking_for = "Stage développeur Python — Mars 2026"
+        self.school      = "Epitech Paris — Pré-Master"
+        self.location    = "Plaisir, Île-de-France 📍"
+        self.languages   = ["Python 🐍", "Java ☕", "JavaScript 🌐"]
+        self.frameworks  = ["Django REST", "React.js"]
+        self.databases   = ["MySQL", "SQLite", "PostgreSQL"]
+        self.devops      = ["Docker", "Jenkins", "Ansible", "Linux"]
+        self.looking_for = "Stage développeur Python — Mars 2026 🚀"
 
     def say_hi(self):
-        print("Je construis des projets concrets et j'adore relever des défis techniques 🚀")
+        print("Je construis des projets concrets et j'adore relever des défis techniques !")
 ```
 
 ---
 
 ### 🛠️ Stack technique
+
+<div align="center">
 
 **Langages**
 
@@ -60,16 +76,22 @@ class Aurore:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
 ### 🚀 Projets réalisés
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🎮 **Jeux 2D PACMAN** | Jeu Pacman complet avec IA des fantômes, collisions et score | `Java` `Swing` `JUnit` |
-| 📋 **JBoard** | Application web fullstack de gestion de tâches | `Django` `MySQL` `HTML/CSS` |
-| ⚙️ **Jenkins CI/CD** | Infrastructure CI/CD conteneurisée avec pipelines automatisés | `Jenkins` `Docker` `Ansible` |
+<div align="center">
+
+| 🗂️ Projet | 📝 Description | ⚙️ Stack |
+|:---:|:---|:---:|
+| 🎮 **Jeux 2D PACMAN** | Jeu Pacman complet avec IA des fantômes, gestion des collisions et score | `Java` `Swing` `JUnit` |
+| 📋 **JBoard** | Application web fullstack de gestion de tâches avec interface dynamique | `Django` `MySQL` `HTML/CSS` |
+| ⚙️ **Jenkins CI/CD** | Infrastructure CI/CD conteneurisée avec pipelines automatisés et gestion des rôles | `Jenkins` `Docker` `Ansible` |
 | 🌐 **Portfolio App** | Application fullstack de gestion de portfolios avec API REST | `React` `Django REST` `SQLite` |
+
+</div>
 
 ---
 
@@ -77,9 +99,11 @@ class Aurore:
 
 <div align="center">
 
-![Aurore's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurore204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=a855f7)
+![Aurore's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurore204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=a855f7&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurore204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurore204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aurore204&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=a855f7&currStreakLabel=667eea)
 
 </div>
 
@@ -87,8 +111,8 @@ class Aurore:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=667eea,a855f7&height=100&section=footer)
-
 *✨ Disponible pour un stage — Mars à Août 2026*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=667eea,a855f7&height=100&section=footer)
 
 </div>
