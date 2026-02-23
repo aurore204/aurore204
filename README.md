@@ -80,7 +80,7 @@ class Aurore:
 
 **Frameworks**
 
-<img src="assets/django.svg" width="40" height="40"/>
+<img src="assets/django.png" width="40" height="40"/>
 &nbsp;
 <img src="assets/react.svg" width="40" height="40"/>
 &nbsp;
