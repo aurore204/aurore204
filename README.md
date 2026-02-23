@@ -174,8 +174,6 @@ class Aurore:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurore204&layout=compact&hide_border=true&bg_color=0d1117&title_color=4f46e5&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=aurore204&theme=tokyonight&hide_border=true&background=0d1117&ring=4f46e5&fire=7c3aed&currStreakLabel=4f46e5)
 
 </div>
