@@ -8,17 +8,22 @@
 
 </div>
 </br>
-### Aurore Njimegne
+Aurore Njimegne
 
-**Étudiante Pré-MSc · Epitech Paris**
+**Étudiante Pré-Master of Science · Epitech Paris**
 
 *Déterminée · Rigoureuse · Curieuse · Esprit d'équipe*
 
-Passionnée par le développement web et le DevOps, je construis des applications fullstack concrètes et j'aime comprendre comment les choses fonctionnent de bout en bout — du code jusqu'au déploiement.
+---
 
-Je recherche un **stage en développement fullstack ou DevOps pour mars 2026**,
-ainsi qu'une **alternance DevOps à partir de septembre 2026**.
+Passionnée par le développement web et le DevOps, je conçois des applications fullstack concrètes en pensant chaque projet de bout en bout — du code jusqu'au déploiement en production.
 
+Ayant développé un réel intérêt pour l'infrastructure et le Cloud, je mène aujourd'hui deux recherches en parallèle :
+
+- **Stage de 6 mois** en développement fullstack ou DevOps — **à partir de mars 2026**
+- **Alternance de 2 ans** en DevOps/Cloud — **à partir de septembre 2026**
+
+---
 <br/>
 
 <a href="https://www.linkedin.com/in/aurore-njimegne">
