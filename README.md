@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4f46e5,7c3aed&height=200&section=header&text=Aurore%20Njimegne&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Développeuse%20Fullstack%20·%20Epitech%20Paris&descAlignY=55&descColor=e0d7ff&animation=fadeIn)
 
-<img src="assets/Avatar.png" width="120"/>
-
+<img src="https://github.com/aurore204.png" width="120" style="border-radius:50%;"/>
 ### Aurore Njimegne
 
 **Étudiante Pré-MSc · Epitech Paris**
@@ -66,55 +65,35 @@ class Aurore:
 
 **Langages**
 
-<img src="assets/python.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/javascript.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/html5.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/css.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/php.svg" width="40" height="40"/>
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks**
 
-<img src="assets/django.png" width="40" height="40"/>
-&nbsp;
-<img src="assets/react.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/tailwindcss.svg" width="40" height="40"/>
-
-<br/><br/>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Bases de données**
 
-<img src="assets/mysql.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/postgresql.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/sqlite.svg" width="40" height="40"/>
-
-<br/><br/>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 **DevOps & Outils**
 
-<img src="assets/docker.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/jenkins.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/ansible.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/git.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/linux.svg" width="40" height="40"/>
-&nbsp;
-<img src="assets/gnubash.svg" width="40" height="40"/>
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
-
----
 
 ### Projets réalisés
 
