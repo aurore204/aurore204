@@ -96,7 +96,7 @@ En recherche d'une **alternance DevOps/Cloud (12–23 mois)** — disponible dè
       <td><strong>VIGIL</strong></td>
       <td>Plateforme temps réel de coordination Releases/Incidents pour équipes techniques — 3 rôles, timeline collaborative, moteur de règles Action → REAction connecté à GitHub. Client web, desktop natif (Tauri) et API REST/WebSocket sur un même serveur.</td>
       <td><code>Rust</code> <code>Axum</code> <code>Next.js</code> <code>Tauri</code> <code>PostgreSQL</code> <code>WebSocket</code> <code>Docker</code></td>
-      <td><a href="https://github.com/aurore204">Voir le projet</a></td>
+      <td><a href="https://github.com/aurore204/VIGIL">Voir le projet</a></td>
     </tr>
     <tr>
       <td><strong>RTC — Real-Time Chat</strong></td>
@@ -126,19 +126,19 @@ En recherche d'une **alternance DevOps/Cloud (12–23 mois)** — disponible dè
       <td><strong>Instance Jenkins CI/CD</strong></td>
       <td>Instance Jenkins conteneurisée avec Configuration as Code (JCasC), gestion des rôles (RBAC) et création programmatique de jobs via Job DSL.</td>
       <td><code>Jenkins</code> <code>Docker</code> <code>JCasC</code> <code>Groovy</code></td>
-      <td><a href="https://github.com/aurore204">Voir le projet</a></td>
+      <td><a href="https://github.com/aurore204/Instance-Jenkins">Voir le projet</a></td>
     </tr>
     <tr>
       <td><strong>JBoard</strong></td>
       <td>Plateforme fullstack de gestion d'offres d'emploi avec espaces candidat, entreprise et administrateur, API REST et panneau d'administration.</td>
       <td><code>Django REST</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code> <code>JS</code></td>
-      <td><a href="https://github.com/aurore204/jboard-web-app">Voir le projet</a></td>
+      <td><a href="https://github.com/aurore204/jboard-app">Voir le projet</a></td>
     </tr>
     <tr>
       <td><strong>Pac-Man</strong></td>
       <td>Jeu Pac-Man complet avec IA des 4 fantômes, système de score et de niveaux, gestion des collisions et tests unitaires.</td>
       <td><code>Java</code> <code>Swing</code> <code>Gradle</code> <code>JUnit 5</code></td>
-      <td><a href="https://github.com/aurore204">Voir le projet</a></td>
+      <td><a href="https://github.com/aurore204/Jeu-2D-PACMAN">Voir le projet</a></td>
     </tr>
   </tbody>
 </table>
