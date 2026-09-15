@@ -4,7 +4,7 @@
 
 # Aurore Njimegne
 
-**Développeuse Fullstack · DevOps/Cloud** · Master 1 Cloud — Epitech Paris
+**DevOps/Cloud** · Master 1/2  Cloud/ Sécurité — Epitech Paris
 
 En recherche d'une **alternance DevOps/Cloud (12–23 mois)** — disponible dès que possible
 
